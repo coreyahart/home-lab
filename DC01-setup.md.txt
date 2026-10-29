@@ -1,0 +1,7 @@
+Domain Controller VM Configuration
+- 4GB RAM
+- 2 CPUs
+- 50GB Disk
+- 2 Network Adapters (internal & NAT)
+	- internal for private lab network where the DC will hand out IP addresses
+	- NAT for giving the server internet access for Windows updates and activation
