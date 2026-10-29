@@ -1,6 +1,6 @@
 # Home Lab - Active Directory
 
-A virtual Windows environment that I'm building to practice IT fundamentals.
+A virtual Windows environment that I'm building to practice IT fundamentals.  
 Built in VirtualBox on a Windows host.
 
 **Tools:** VirtualBox, Windows Server 2022, Windows 11, Active Directory
